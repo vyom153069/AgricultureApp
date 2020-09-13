@@ -7,7 +7,8 @@ This app is made for HackVsit, In this app we tried to make something for farmer
  
 
 # Screenshots 
-<div style="margin:0px;">
+<center>
+ 
 <img src="screenshots/splash.jpeg" align="left" width="200">
 <img src="screenshots/homepage.jpeg" align="left" width="200">
 <img src="screenshots/homepage2.jpeg" align="left" width="200">
@@ -30,4 +31,5 @@ This app is made for HackVsit, In this app we tried to make something for farmer
 <img src="screenshots/state_department.jpeg" align="left" width="200">
 <img src="screenshots/treatmen.jpeg" align="left" width="200">
 <img src="screenshots/bazar_rates.jpeg" align="left" width="200">
-</div>
+
+</center>
