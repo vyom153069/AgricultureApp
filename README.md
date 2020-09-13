@@ -21,11 +21,11 @@ This app is made for HackVsit
 <img src="screenshots/details.jpeg" align="left" width="250">
 <img src="screenshots/govt_scheems.jpeg" align="left" width="250">
 <img src="screenshots/manage_crop_details.jpeg" align="left" width="250">
-<img src="screenshots/problem_solving.jpeg" align="left" width="250">
+<img src="screenshots/problem_soltion.jpeg" align="left" width="250">
 <img src="screenshots/productions.jpeg" align="left" width="250">
 <img src="screenshots/production_graph.jpeg" align="left" width="250">
 <img src="screenshots/soil_health_card.jpeg" align="left" width="250">
 <img src="screenshots/state_department.jpeg" align="left" width="250">
-<img src="screenshots/treatment.jpeg" align="left" width="250">
+<img src="screenshots/treatmen.jpeg" align="left" width="250">
 <img src="screenshots/bazar_rates.jpeg" align="left" width="250">
 </div>
