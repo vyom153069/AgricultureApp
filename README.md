@@ -1,3 +1,9 @@
+This app is made for HackVsit
+
+# Demo 
+[demo](https://www.figma.com/proto/rnffOmLFSsGM2aNhulQNGf/Hack-VSIT-Krishify?node-id=3%3A15&viewport=-2995%2C-4168%2C1.9215978384017944&scaling=scale-down)
+ 
+
 # Screenshots 
 <img src="screenshots/splash.jpeg" align="left" width="250">
 <img src="screenshots/homepage.jpeg" align="left" width="250">
@@ -21,4 +27,6 @@
 <img src="screenshots/state_department.jpeg" align="left" width="250">
 <img src="screenshots/treatment.jpeg" align="left" width="250">
 <img src="screenshots/bazar_rates.jpeg" align="left" width="250">
+
+
 
