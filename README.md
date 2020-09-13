@@ -5,6 +5,7 @@ This app is made for HackVsit
  
 
 # Screenshots 
+<div style="margin:0px">
 <img src="screenshots/splash.jpeg" align="left" width="250">
 <img src="screenshots/homepage.jpeg" align="left" width="250">
 <img src="screenshots/homepage2.jpeg" align="left" width="250">
@@ -27,6 +28,4 @@ This app is made for HackVsit
 <img src="screenshots/state_department.jpeg" align="left" width="250">
 <img src="screenshots/treatment.jpeg" align="left" width="250">
 <img src="screenshots/bazar_rates.jpeg" align="left" width="250">
-
-
-
+</div>
