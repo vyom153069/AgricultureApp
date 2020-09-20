@@ -5,9 +5,7 @@ import android.os.Parcelable;
 
 import java.io.Serializable;
 
-/**
- * Created by kharita on 7/8/16.
- */
+
 public class ItemBazaar implements Parcelable,Serializable{
     private String market,commodity,variety,min,max,avg;
 

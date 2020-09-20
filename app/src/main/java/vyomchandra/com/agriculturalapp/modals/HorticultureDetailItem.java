@@ -1,8 +1,6 @@
 package vyomchandra.com.agriculturalapp.modals;
 
-/**
- * Created by mustcoder26 on 7/8/16.
- */
+
 public class HorticultureDetailItem {
     private String heading;
     private Integer detail;

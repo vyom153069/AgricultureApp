@@ -11,9 +11,7 @@ import java.util.ArrayList;
 
 import vyomchandra.com.agriculturalapp.modals.ItemHealthCard;
 
-/**
- * Created by sukhbir on 19/8/16.
- */
+
 public class SqliteHelper extends SQLiteAssetHelper {
 
     private static final String DATABASE_NAME = "soil_lab";

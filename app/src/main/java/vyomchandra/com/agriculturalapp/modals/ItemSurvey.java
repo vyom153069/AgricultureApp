@@ -5,9 +5,7 @@ import android.os.Parcelable;
 
 import java.io.Serializable;
 
-/**
- * Created by kharita on 7/8/16.
- */
+
 public class ItemSurvey implements Parcelable,Serializable{
     private String year,area,production;
 
